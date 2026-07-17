@@ -1,6 +1,6 @@
 # TAAC 2026 / KDD Cup 2026 Tencent UniRec Challenge Solution
 
-本仓库开源了我们在 **TAAC 2026** 初赛和复赛最高分两份代码。方案以官方 **HyFormer** baseline 为基础，重点围绕数据理解、特征处理、tokenization、目标感知序列建模和训练稳定性进行改进。
+本仓库开源了我们在 **TAAC 2026** 初赛和复赛最高分两份代码。方案以官方 **HyFormer** baseline 为基础，重点围绕数据理解、特征处理、tokenization、目标感知序列建模进行改进。
 > 初赛最终方案将公开榜 AUC 从官方 baseline 的 **0.809** 提升至 **0.83269**。  
 > 复赛最终方案将公开榜 AUC 从官方 baseline 的 **0.820922** 提升至 **0.833641**，比赛结束后开放的一周评测机会后，我们做了一些scaling实验将分数提升到了0.833983
 <img width="1232" height="213" alt="image" src="https://github.com/user-attachments/assets/35414609-995c-49b5-a328-b6409df23494" />
